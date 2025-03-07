@@ -1,0 +1,6 @@
+{
+    "architectures": ["PhiForCausalLM"],
+    "model_type": "phi-msft",
+    "tokenizer_class": "AutoTokenizer",
+    "tokenizer_name": "microsoft/phi-2"
+} 
